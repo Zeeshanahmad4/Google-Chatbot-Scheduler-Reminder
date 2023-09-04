@@ -28,36 +28,15 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-## Table of Contents
-
-- [**Project Overview**](#project-overview-📋)
-  - [Google Chatbot Scheduler: Yoga Reminder](#google-chatbot-scheduler-yoga-reminder)
-  
-- [**Features**](#features-✨)
-  - [Scheduled Reminders](#scheduled-reminders)
-  - [Voting Mechanism](#voting-mechanism)
-  - [Conditional Email Sending](#conditional-email-sending)
-  - [Configurable Settings](#configurable-settings)
-  
-- [**To-Do Features**](#to-do-features-🚀)
-  - [Analytics Dashboard](#analytics-dashboard)
-  - [Integration with Calendar](#integration-with-calendar)
-  - [User Profiles](#user-profiles)
-  
-- [**Usage Examples**](#usage-examples-📌)
-  - [Schedule a Reminder](#schedule-a-reminder)
-  - [Send an Immediate Reminder](#send-an-immediate-reminder)
-  
-- [**Setup and Installation Instructions**](#setup-and-installation-instructions-🛠️)
-  - [Steps](#steps)
-  
-- [**Troubleshooting Tips**](#troubleshooting-tips-🔍)
-  - [Reminder Not Sent](#reminder-not-sent)
-  - [Votes Not Counted](#votes-not-counted)
-  - [Email Not Sent](#email-not-sent)
-  
-- [**Contribution Guidelines**](#contribution-guidelines-🤝)
-  - [Steps](#steps-1)
+table_of_contents = [
+    {"title": "Project Overview", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#project-overview-📋"},
+    {"title": "Features", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#features-✨"},
+    {"title": "To-Do Features", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#to-do-features-🚀"},
+    {"title": "Usage Examples", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#usage-examples-📌"},
+    {"title": "Setup and Installation Instructions", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#setup-and-installation-instructions-🛠️"},
+    {"title": "Troubleshooting Tips", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#troubleshooting-tips-🔍"},
+    {"title": "Contribution Guidelines", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#contribution-guidelines-🤝"}
+]
 
 
 ## Project Overview 📋
