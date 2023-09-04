@@ -28,40 +28,36 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copy Link Feature</title>
-</head>
-<body>
+## Table of Contents
 
-<!-- Text field to display the link -->
-<input type="text" id="myLink" value="https://www.example.com">
-
-<!-- Button to copy the link -->
-<button onclick="copyLink()">Copy Link</button>
-
-<script>
-    function copyLink() {
-        // Select the link
-        var link = document.getElementById("myLink");
-        link.select();
-        link.setSelectionRange(0, 99999); // For mobile devices
-
-        // Copy the link to clipboard
-        document.execCommand("copy");
-        
-        // Optional: Alert the copied text
-        alert("Copied the link: " + link.value);
-    }
-</script>
-
-</body>
-</html>
-
+- [**Project Overview**](#project-overview-📋)
+  - [Google Chatbot Scheduler: Yoga Reminder](#google-chatbot-scheduler-yoga-reminder)
+  
+- [**Features**](#features-✨)
+  - [Scheduled Reminders](#scheduled-reminders)
+  - [Voting Mechanism](#voting-mechanism)
+  - [Conditional Email Sending](#conditional-email-sending)
+  - [Configurable Settings](#configurable-settings)
+  
+- [**To-Do Features**](#to-do-features-🚀)
+  - [Analytics Dashboard](#analytics-dashboard)
+  - [Integration with Calendar](#integration-with-calendar)
+  - [User Profiles](#user-profiles)
+  
+- [**Usage Examples**](#usage-examples-📌)
+  - [Schedule a Reminder](#schedule-a-reminder)
+  - [Send an Immediate Reminder](#send-an-immediate-reminder)
+  
+- [**Setup and Installation Instructions**](#setup-and-installation-instructions-🛠️)
+  - [Steps](#steps)
+  
+- [**Troubleshooting Tips**](#troubleshooting-tips-🔍)
+  - [Reminder Not Sent](#reminder-not-sent)
+  - [Votes Not Counted](#votes-not-counted)
+  - [Email Not Sent](#email-not-sent)
+  
+- [**Contribution Guidelines**](#contribution-guidelines-🤝)
+  - [Steps](#steps-1)
 
 
 ## Project Overview 📋
