@@ -28,6 +28,41 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copy Link Feature</title>
+</head>
+<body>
+
+<!-- Text field to display the link -->
+<input type="text" id="myLink" value="https://www.example.com">
+
+<!-- Button to copy the link -->
+<button onclick="copyLink()">Copy Link</button>
+
+<script>
+    function copyLink() {
+        // Select the link
+        var link = document.getElementById("myLink");
+        link.select();
+        link.setSelectionRange(0, 99999); // For mobile devices
+
+        // Copy the link to clipboard
+        document.execCommand("copy");
+        
+        // Optional: Alert the copied text
+        alert("Copied the link: " + link.value);
+    }
+</script>
+
+</body>
+</html>
+
+
 
 ## Project Overview 📋
 
