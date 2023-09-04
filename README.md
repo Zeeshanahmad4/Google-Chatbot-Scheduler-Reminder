@@ -28,6 +28,17 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+## Table of Contents
+
+1. [Project Overview](#project-overview-📋)
+2. [Features](#features-✨)
+3. [To-Do Features](#to-do-features-🚀)
+4. [Usage Examples](#usage-examples-📌)
+5. [Setup and Installation Instructions](#setup-and-installation-instructions-🛠️)
+6. [Troubleshooting Tips](#troubleshooting-tips-🔍)
+7. [Contribution Guidelines](#contribution-guidelines-🤝)
+
+
 ## Project Overview 📋
 
 Google Chatbot Scheduler: Yoga Reminder is a custom chatbot integrated into Google Workspace. It's designed to send scheduled reminders in specific Google Chat spaces, gather responses through voting buttons, and send emails based on the voting results.
