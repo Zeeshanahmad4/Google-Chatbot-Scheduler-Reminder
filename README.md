@@ -28,17 +28,6 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
-table_of_contents = [
-    {"title": "Project Overview", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#project-overview-📋"},
-    {"title": "Features", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#features-✨"},
-    {"title": "To-Do Features", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#to-do-features-🚀"},
-    {"title": "Usage Examples", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#usage-examples-📌"},
-    {"title": "Setup and Installation Instructions", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#setup-and-installation-instructions-🛠️"},
-    {"title": "Troubleshooting Tips", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#troubleshooting-tips-🔍"},
-    {"title": "Contribution Guidelines", "url": "https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#contribution-guidelines-🤝"}
-]
-
-
 ## Project Overview 📋
 
 Google Chatbot Scheduler: Yoga Reminder is a custom chatbot integrated into Google Workspace. It's designed to send scheduled reminders in specific Google Chat spaces, gather responses through voting buttons, and send emails based on the voting results.
