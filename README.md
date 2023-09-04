@@ -28,27 +28,17 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [Project Overview](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#project-overview-📋)
-- [Features](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#features-✨)
-    - [Scheduled Reminders](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#scheduled-reminders)
-    - [Voting Mechanism](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#voting-mechanism)
-    - [Conditional Email Sending](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#conditional-email-sending)
-    - [Configurable Settings](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#configurable-settings)
-- [To-Do Features](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#to-do-features-🚀)
-    - [Analytics Dashboard](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#analytics-dashboard)
-    - [Integration with Calendar](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#integration-with-calendar)
-    - [User Profiles](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#user-profiles)
-- [Usage Examples](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#usage-examples-📌)
-    - [Schedule a Reminder](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#schedule-a-reminder)
-    - [Send an Immediate Reminder](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#send-an-immediate-reminder)
-- [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#setup-and-installation-instructions-🛠️)
-- [Troubleshooting Tips](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#troubleshooting-tips-🔍)
-- [Contribution Guidelines](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#contribution-guidelines-🤝)
-
-
-
+- [Project Overview](#project-overview-)
+- [Features](#features-)
+  - [Future Features (To-Do)](#-future-features-to-do)
+- [Requirements](#requirements-)
+- [Usage Examples](#usage-examples-)
+  - [Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [Troubleshooting Tips](#troubleshooting-tips-)
+- [Contribution Guidelines](#contribution-guidelines-)
 
 ## Project Overview 📋
 
