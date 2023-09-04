@@ -30,13 +30,24 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview-📋)
-2. [Features](#features-✨)
-3. [To-Do Features](#to-do-features-🚀)
-4. [Usage Examples](#usage-examples-📌)
-5. [Setup and Installation Instructions](#setup-and-installation-instructions-🛠️)
-6. [Troubleshooting Tips](#troubleshooting-tips-🔍)
-7. [Contribution Guidelines](#contribution-guidelines-🤝)
+- [Project Overview](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#project-overview-📋)
+- [Features](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#features-✨)
+    - [Scheduled Reminders](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#scheduled-reminders)
+    - [Voting Mechanism](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#voting-mechanism)
+    - [Conditional Email Sending](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#conditional-email-sending)
+    - [Configurable Settings](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#configurable-settings)
+- [To-Do Features](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#to-do-features-🚀)
+    - [Analytics Dashboard](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#analytics-dashboard)
+    - [Integration with Calendar](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#integration-with-calendar)
+    - [User Profiles](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#user-profiles)
+- [Usage Examples](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#usage-examples-📌)
+    - [Schedule a Reminder](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#schedule-a-reminder)
+    - [Send an Immediate Reminder](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#send-an-immediate-reminder)
+- [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#setup-and-installation-instructions-🛠️)
+- [Troubleshooting Tips](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#troubleshooting-tips-🔍)
+- [Contribution Guidelines](https://github.com/Zeeshanahmad4/Google-Chatbot-Scheduler-Reminder-#contribution-guidelines-🤝)
+
+
 
 
 ## Project Overview 📋
